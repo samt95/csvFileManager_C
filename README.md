@@ -22,6 +22,6 @@ You will be promped to enter a subcommand. Valid commands are:
 - evalsum [col]
 - evalavg [evalavg]
 
-Use the help command to view more more info on each command.
+Use the help command to view more info on each command.
 
 
